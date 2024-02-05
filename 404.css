@@ -1,6 +1,7 @@
 /* #PERUBAHAN 2 */
+/* COBA RUBAH FILE */
 .not-found-container {
-  width: 100%;
+  width: 120%;
   display: flex;
   overflow: auto;
   min-height: 100vh;
